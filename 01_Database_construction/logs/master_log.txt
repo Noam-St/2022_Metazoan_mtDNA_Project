@@ -1,0 +1,10 @@
+Creating taxfile: NC_031807.1
+Creating taxfile: NC_038132.1
+Tax parsing 399255Creating taxfile: NC_031807.1
+Creating taxfile: NC_038132.1
+Tax parsing 399255Creating taxfile: NC_031807.1
+Taxfile exists: NC_038132.1
+Creating taxfile: NC_031807.1
+Taxfile exists: NC_038132.1
+Creating taxfile: NC_031807.1
+Taxfile exists: NC_038132.1

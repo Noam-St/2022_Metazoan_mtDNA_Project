@@ -3,6 +3,9 @@
 !*.ipynb
 !Gene_clusters
 !*.R
+!*/
 !LICENSE
 !*.md
 !*.gitignore
+!*.csv
+!requirements.txt

@@ -619,6 +619,6 @@ if __name__ == '__main__':
             dict_list.append(return_dict)
             dummy = pd.DataFrame(dict_list)
             dummy.set_index(keys = 'organism',inplace = True)
-            dummy.to_csv(f'{path}{dash}DB_csvs{dash}final_2021.csv',header = False,mode = 'a')
+            dummy.to_csv(f'{path}{dash}DB_csvs{dash}final.csv',header = False,mode = 'a')
         c+=1
 

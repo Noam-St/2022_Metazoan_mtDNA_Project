@@ -1,0 +1,19 @@
+Gene_Group,Phylum,Prevalence
+"-nad4, -nad4L",Arthropoda,98.13
+"-nad4, -nad4L",Chordata,0.08
+"-nad4, -nad4L",Cnidaria,0.0
+"-nad4, -nad4L",Echinodermata,0.0
+"-nad4, -nad4L",Mollusca,26.71
+"-nad4, -nad4L",Nematoda,3.41
+"atp8, atp6",Arthropoda,98.96
+"atp8, atp6",Chordata,99.65
+"atp8, atp6",Cnidaria,29.1
+"atp8, atp6",Echinodermata,96.1
+"atp8, atp6",Mollusca,50.81
+"atp8, atp6",Nematoda,0.0
+"nad4L, nad4",Arthropoda,1.33
+"nad4L, nad4",Chordata,99.65
+"nad4L, nad4",Cnidaria,0.0
+"nad4L, nad4",Echinodermata,0.0
+"nad4L, nad4",Mollusca,43.65
+"nad4L, nad4",Nematoda,0.0

@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,216.0,0.0,3826,4124,299,,,0,0,,,,,popphyl,gene-HH_0gene-HH_1,0,192,0.0,0.0
+1,ND2_COX1,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,gene,386.0,0.0,5080,5378,299,,,0,0,,,,,popphyl,gene-HH_2gene-HH_3,0,192,0.0,0.0
+2,COX1_COX2,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,158.0,0.0,7020,7318,299,,,0,0,,,,,popphyl,gene-HH_4gene-HH_5,0,192,0.0,0.0
+3,COX2_ATP8,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,77.0,0.0,7868,8101,234,,,0,0,,,,,popphyl,gene-HH_6,0,172,0.0,0.0
+4,ATP8_ATP6,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,8102,8400,299,,,0,0,,,,,popphyl,gene-HH_7,0,96,0.0,0.0
+5,ATP6_COX3,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,8785,9083,299,,,0,0,,,,,popphyl,gene-HH_8,0,96,0.0,0.0
+6,COX3_ND3,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,72.0,0.0,9568,9866,299,,,0,0,,,,,popphyl,gene-HH_9,0,167,0.0,0.0
+7,ND3_ND4L,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,70.0,0.0,9988,10286,299,,,0,0,,,,,popphyl,gene-HH_10,0,165,0.0,0.0
+8,ND4L_ND4,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,10347,10645,299,,,0,0,,,,,popphyl,gene-HH_11,0,96,0.0,0.0
+9,ND4_ND5,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,213.0,0.0,11728,12026,299,,,0,0,,,,,popphyl,gene-HH_12gene-HH_13,0,192,0.0,0.0
+10,ND5_ND6,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,ND6,ND5,True,False,84.4,True,,gene,1.0,0.0,13772,14070,299,,,0,0,,,,,popphyl,gene-HH_14,0,96,0.0,0.0
+11,ND6_CYTB,Hippocampus_hippocampus,,0.0,0.0,0.0,0.0,CYTB,ND6,False,True,99.2,True,,gene,74.0,0.0,14294,14592,299,,,0,0,,,,,popphyl,gene-HH_15,0,169,0.0,0.0

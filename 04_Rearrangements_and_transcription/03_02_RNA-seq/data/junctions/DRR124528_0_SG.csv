@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,185.0,0.0,1231,1529,299,,,0,0,,,,,SG_random,gene-SG_0gene-SG_1,0,192,0.0,0.0
+1,COX1_COX2,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,72.0,0.0,2961,3259,299,,,0,0,,,,,SG_random,gene-SG_2,0,167,0.0,0.0
+2,COX2_ATP8,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,157.0,0.0,3717,4015,299,,,0,0,,,,,SG_random,gene-SG_3gene-SG_4,0,192,0.0,0.0
+3,ATP8_ATP6,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4028,4326,299,,,0,0,,,,,SG_random,gene-SG_5,0,96,0.0,0.0
+4,ATP6_COX3,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,4.0,0.0,4707,5005,299,,,0,0,,,,,SG_random,gene-SG_6,0,99,0.0,0.0
+5,COX3_ND3,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,68.0,0.0,5503,5801,299,,,0,0,,,,,SG_random,gene-SG_7,0,163,0.0,0.0
+6,ND3_ND5,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,405.0,0.0,5925,6223,299,,,0,0,,,,,SG_random,gene-SG_8gene-SG_9,0,192,0.0,0.0
+7,ND5_ND4,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,85.0,0.0,8047,8345,299,,,0,0,,,,,SG_random,gene-SG_10,0,180,0.0,0.0
+8,ND4_ND4L,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9459,9753,295,,,0,0,,,,,SG_random,gene-SG_11,0,96,0.0,0.0
+9,ND4L_ND6,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,137.0,0.0,9754,10052,299,,,0,0,,,,,SG_random,gene-SG_12gene-SG_13,0,192,0.0,0.0
+10,ND6_CYTB,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,6.0,0.0,10413,10711,299,,,0,0,,,,,SG_random,gene-SG_14,0,101,0.0,0.0
+11,CYTB_ND1,Schistocerca_gregaria,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,86.0,0.0,11559,11857,299,,,0,0,,,,,SG_random,gene-SG_15,0,181,0.0,0.0

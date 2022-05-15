@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Anopheles_gambiae,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,195.0,0.0,1230,1528,299,,,0,0,,,,,a.gambiae,gene-AG_0gene-AG_1,0,300,0.0,0.0
+1,COX1_COX2,Anopheles_gambiae,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,71.0,0.0,2962,3260,299,,,0,0,,,,,a.gambiae,gene-AG_2,0,220,0.0,0.0
+2,COX2_ATP8,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,151.0,0.0,3718,4016,299,,,0,0,,,,,a.gambiae,gene-AG_3gene-AG_4,0,300,0.0,0.0
+3,ATP8_ATP6,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4023,4321,299,,,0,0,,,,,a.gambiae,gene-AG_5,0,150,0.0,0.0
+4,ATP6_COX3,Anopheles_gambiae,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4703,5001,299,,,0,0,,,,,a.gambiae,gene-AG_6,0,150,0.0,0.0
+5,COX3_ND3,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,67.0,0.0,5491,5789,299,,,0,0,,,,,a.gambiae,gene-AG_7,0,216,0.0,0.0
+6,ND3_ND5,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,393.0,0.0,5912,6210,299,,,0,0,,,,,a.gambiae,gene-AG_8gene-AG_9,0,300,0.0,0.0
+7,ND5_ND4,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,66.0,0.0,8048,8346,299,,,0,0,,,,,a.gambiae,gene-AG_10,0,215,0.0,0.0
+8,ND4_ND4L,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9448,9746,299,,,0,0,,,,,a.gambiae,gene-AG_11,0,150,0.0,0.0
+9,ND4L_ND6,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,135.0,0.0,9755,10053,299,,,0,0,,,,,a.gambiae,gene-AG_12,0,284,0.0,0.0
+10,ND6_CYTB,Anopheles_gambiae,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,10413,10711,299,,,0,0,,,,,a.gambiae,gene-AG_13,0,150,0.0,0.0
+11,CYTB_ND1,Anopheles_gambiae,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,81.0,0.0,11551,11849,299,,,0,0,,,,,a.gambiae,gene-AG_14,0,230,0.0,0.0

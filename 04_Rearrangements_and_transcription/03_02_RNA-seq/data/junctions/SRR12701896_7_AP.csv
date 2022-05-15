@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,216.0,0.0,4835,5133,299,,,0,0,,,,,AP_deve,gene-AP_0gene-AP_1,0,192,0.0,0.0
+1,ND2_COX1,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,,361.0,0.0,6090,6388,299,,,0,0,,,,,AP_deve,gene-AP_2gene-AP_3,0,192,0.0,0.0
+2,COX1_COX2,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,136.0,0.0,8002,8300,299,,,0,0,,,,,AP_deve,gene-AP_4gene-AP_5,0,192,0.0,0.0
+3,COX2_ATP8,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,71.0,0.0,8825,9052,228,,,0,0,,,,,AP_deve,gene-AP_6,0,166,0.0,0.0
+4,ATP8_ATP6,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,9053,9351,299,,,0,0,,,,,AP_deve,gene-AP_7,0,96,0.0,0.0
+5,ATP6_COX3,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,9736,10034,299,,,0,0,,,,,AP_deve,gene-AP_8,0,96,0.0,0.0
+6,COX3_ND3,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,69.0,0.0,10521,10819,299,,,0,0,,,,,AP_deve,gene-AP_9,0,164,0.0,0.0
+7,ND3_ND4L,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,71.0,0.0,10942,11240,299,,,0,0,,,,,AP_deve,gene-AP_10,0,166,0.0,0.0
+8,ND4L_ND4,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,11302,11600,299,,,0,0,,,,,AP_deve,gene-AP_11,0,96,0.0,0.0
+9,ND4_ND5,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,205.0,0.0,12681,12979,299,,,0,0,,,,,AP_deve,gene-AP_12gene-AP_13,0,192,0.0,0.0
+10,ND5_CYTB,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,CYTB,ND5,True,True,15.2,False,,gene,1.0,0.0,14708,15006,299,,,0,0,,,,,AP_deve,gene-AP_14,0,96,0.0,0.0
+11,CYTB_ND6,Anas_platyrhynchos,,0.0,0.0,0.0,0.0,ND6,CYTB,True,False,99.2,True,,gene,161.0,0.0,15852,16150,299,,,0,0,,,,,AP_deve,gene-AP_15gene-AP_16,0,192,0.0,0.0

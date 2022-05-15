@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,225.0,0.0,959,1257,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_0gene-EB_1,0,192,0.0,0.0
+1,ND2_COX1,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,,343.0,0.0,2228,2526,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_2gene-EB_3,0,192,0.0,0.0
+2,COX1_COX2,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,131.0,0.0,4125,4423,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_4gene-EB_5,0,192,0.0,0.0
+3,COX2_ATP8,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,58.0,0.0,4946,5160,215,,,0,0,,,,,Hagfish_Lamprey,gene-EB_6,0,153,0.0,0.0
+4,ATP8_ATP6,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,5161,5459,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_7,0,96,0.0,0.0
+5,ATP6_COX3,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,2.0,0.0,5849,6147,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_8,0,97,0.0,0.0
+6,COX3_ND3,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,84.0,0.0,6637,6935,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_9,0,179,0.0,0.0
+7,ND3_ND4L,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,66.0,0.0,7070,7368,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_10,0,161,0.0,0.0
+8,ND4L_ND4,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,7419,7717,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_11,0,96,0.0,0.0
+9,ND4_ND5,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,194.0,0.0,8797,9095,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_12gene-EB_13,0,192,0.0,0.0
+10,ND5_ND6,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,ND6,ND5,True,False,84.4,True,,gene,1.0,0.0,10788,11086,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_14,0,96,0.0,0.0
+11,ND6_CYTB,Eptatretus_burgeri,,0.0,0.0,0.0,0.0,CYTB,ND6,False,True,99.2,True,,gene,69.0,0.0,11293,11591,299,,,0,0,,,,,Hagfish_Lamprey,gene-EB_15,0,164,0.0,0.0

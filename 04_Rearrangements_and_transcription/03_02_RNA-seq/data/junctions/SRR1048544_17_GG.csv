@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Gallus_gallus,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,217.0,0.0,5030,5328,299,,,0,0,,,,,GG_generic,gene-GG_0gene-GG_1,0,200,0.0,0.0
+1,ND2_COX1,Gallus_gallus,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,gene,366.0,0.0,6285,6583,299,,,0,0,,,,,GG_generic,gene-GG_2gene-GG_3,0,200,0.0,0.0
+2,COX1_COX2,Gallus_gallus,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,148.0,0.0,8192,8490,299,,,0,0,,,,,GG_generic,gene-GG_4gene-GG_5,0,200,0.0,0.0
+3,COX2_ATP8,Gallus_gallus,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,70.0,0.0,9024,9247,224,,,0,0,,,,,GG_generic,gene-GG_6,0,169,0.0,0.0
+4,ATP8_ATP6,Gallus_gallus,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,9248,9546,299,,,0,0,,,,,GG_generic,gene-GG_7,0,100,0.0,0.0
+5,ATP6_COX3,Gallus_gallus,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,9931,10229,299,,,0,0,,,,,GG_generic,gene-GG_8,0,100,0.0,0.0
+6,COX3_ND3,Gallus_gallus,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,69.0,0.0,10716,11014,299,,,0,0,,,,,GG_generic,gene-GG_9,0,168,0.0,0.0
+7,ND3_ND4L,Gallus_gallus,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,69.0,0.0,11137,11435,299,,,0,0,,,,,GG_generic,gene-GG_10,0,168,0.0,0.0
+8,ND4L_ND4,Gallus_gallus,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,11495,11793,299,,,0,0,,,,,GG_generic,gene-GG_11,0,100,0.0,0.0
+9,ND4_ND5,Gallus_gallus,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,208.0,0.0,12873,13171,299,,,0,0,,,,,GG_generic,gene-GG_12gene-GG_13,0,200,0.0,0.0
+10,ND5_CYTB,Gallus_gallus,,0.0,0.0,0.0,0.0,CYTB,ND5,True,True,15.2,False,,gene,4.0,0.0,14899,15197,299,,,0,0,,,,,GG_generic,gene-GG_14,0,103,0.0,0.0
+11,CYTB_ND6,Gallus_gallus,,0.0,0.0,0.0,0.0,ND6,CYTB,True,False,99.2,True,,gene,148.0,0.0,16046,16344,299,,,0,0,,,,,GG_generic,gene-GG_15gene-GG_16,0,200,0.0,0.0

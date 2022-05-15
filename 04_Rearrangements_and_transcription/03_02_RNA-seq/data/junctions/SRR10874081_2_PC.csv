@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Procambarus_clarkii,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,64.0,0.0,1538,1836,299,,,0,0,,,,,decapods,gene-PC_0,0,191,0.0,0.0
+1,COX2_ATP8,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,133.0,0.0,2290,2573,284,,,0,0,,,,,decapods,gene-PC_1gene-PC_2,0,256,0.0,0.0
+2,ATP8_ATP6,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,2574,2872,299,,,0,0,,,,,decapods,gene-PC_3,0,128,0.0,0.0
+3,ATP6_COX3,Procambarus_clarkii,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,3248,3546,299,,,0,0,,,,,decapods,gene-PC_4,0,128,0.0,0.0
+4,COX3_ND3,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,60.0,0.0,4038,4336,299,,,0,0,,,,,decapods,gene-PC_5,0,187,0.0,0.0
+5,ND3_ND1,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND1,ND3,True,True,2.2,False,,,3851.0,0.0,4452,4750,299,,,0,0,,,,,decapods,gene-PC_6gene-PC_7,0,256,0.0,0.0
+6,ND1_CYTB,Procambarus_clarkii,,0.0,0.0,0.0,0.0,CYTB,ND1,True,False,93.4,True,,gene,135.0,0.0,9245,9543,299,,,0,0,,,,,decapods,gene-PC_8gene-PC_9,0,256,0.0,0.0
+7,CYTB_ND6,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND6,CYTB,False,False,96.0,False,,gene,1.0,0.0,10513,10811,299,,,0,0,,,,,decapods,gene-PC_10,0,128,0.0,0.0
+8,ND6_ND4L,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND4L,ND6,False,True,95.6,True,,gene,84.0,0.0,11030,11328,299,,,0,0,,,,,decapods,gene-PC_11,0,211,0.0,0.0
+9,ND4L_ND4,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,98.4,False,,gene,1.0,0.0,11406,11704,299,,,0,0,,,,,decapods,gene-PC_12,0,128,0.0,0.0
+10,ND4_ND5,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,97.0,False,,gene,64.0,0.0,12751,13049,299,,,0,0,,,,,decapods,gene-PC_13,0,191,0.0,0.0
+11,ND5_ND2,Procambarus_clarkii,,0.0,0.0,0.0,0.0,ND2,ND5,True,True,1.8,False,,gene,193.0,0.0,14549,14847,299,,,0,0,,,,,decapods,gene-PC_14gene-PC_15,0,256,0.0,0.0

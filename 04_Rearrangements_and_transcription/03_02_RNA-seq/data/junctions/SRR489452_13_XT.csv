@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,209.0,0.0,3761,4059,299,,,0,0,,,,,XT_developement,gene-XT_0gene-XT_1,0,192,0.0,0.0
+1,ND2_COX1,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,,390.0,0.0,5006,5304,299,,,0,0,,,,,XT_developement,gene-XT_2gene-XT_3,0,192,0.0,0.0
+2,COX1_COX2,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,159.0,0.0,6953,7251,299,,,0,0,,,,,XT_developement,gene-XT_4gene-XT_5,0,192,0.0,0.0
+3,COX2_ATP8,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,75.0,0.0,7800,8031,232,,,0,0,,,,,XT_developement,gene-XT_6,0,170,0.0,0.0
+4,ATP8_ATP6,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,8032,8330,299,,,0,0,,,,,XT_developement,gene-XT_7,0,96,0.0,0.0
+5,ATP6_COX3,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,8715,9013,299,,,0,0,,,,,XT_developement,gene-XT_8,0,96,0.0,0.0
+6,COX3_ND3,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,70.0,0.0,9500,9798,299,,,0,0,,,,,XT_developement,gene-XT_9,0,165,0.0,0.0
+7,ND3_ND4L,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,69.0,0.0,9913,10211,299,,,0,0,,,,,XT_developement,gene-XT_10,0,164,0.0,0.0
+8,ND4L_ND4,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,10271,10569,299,,,0,0,,,,,XT_developement,gene-XT_11,0,96,0.0,0.0
+9,ND4_ND5,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,210.0,0.0,11650,11948,299,,,0,0,,,,,XT_developement,gene-XT_12gene-XT_13,0,192,0.0,0.0
+10,ND5_ND6,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,ND6,ND5,True,False,84.4,True,,gene,1.0,0.0,13668,13966,299,,,0,0,,,,,XT_developement,gene-XT_14,0,96,0.0,0.0
+11,ND6_CYTB,Xenopus_tropicalis,,0.0,0.0,0.0,0.0,CYTB,ND6,False,True,99.2,True,,gene,71.0,0.0,14188,14486,299,,,0,0,,,,,XT_developement,gene-XT_15,0,166,0.0,0.0

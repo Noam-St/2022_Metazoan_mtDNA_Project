@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Aphis_fabae,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,71.0,0.0,1533,1831,299,,,0,0,,,,,AF_transc,gene-AF_0,0,166,0.0,0.0
+1,COX2_ATP8,Aphis_fabae,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,150.0,0.0,2276,2563,288,,,0,0,,,,,AF_transc,gene-AF_1gene-AF_2,0,192,0.0,0.0
+2,ATP8_ATP6,Aphis_fabae,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,2564,2862,299,,,0,0,,,,,AF_transc,gene-AF_3,0,96,0.0,0.0
+3,ATP6_COX3,Aphis_fabae,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,3217,3515,299,,,0,0,,,,,AF_transc,gene-AF_4,0,96,0.0,0.0
+4,COX3_ND3,Aphis_fabae,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,62.0,0.0,4004,4302,299,,,0,0,,,,,AF_transc,gene-AF_5,0,157,0.0,0.0
+5,ND3_ND5,Aphis_fabae,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,563.0,0.0,4420,4718,299,,,0,0,,,,,AF_transc,gene-AF_6gene-AF_7,0,192,0.0,0.0
+6,ND5_ND4,Aphis_fabae,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,110.0,0.0,6654,6952,299,,,0,0,,,,,AF_transc,gene-AF_8gene-AF_9,0,192,0.0,0.0
+7,ND4_ND4L,Aphis_fabae,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,8.0,0.0,8073,8371,299,,,0,0,,,,,AF_transc,gene-AF_10,0,103,0.0,0.0
+8,ND4L_ND6,Aphis_fabae,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,123.0,0.0,8372,8670,299,,,0,0,,,,,AF_transc,gene-AF_11gene-AF_12,0,192,0.0,0.0
+9,ND6_CYTB,Aphis_fabae,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,2.0,0.0,8999,9297,299,,,0,0,,,,,AF_transc,gene-AF_13,0,97,0.0,0.0
+10,CYTB_ND1,Aphis_fabae,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,81.0,0.0,10117,10415,299,,,0,0,,,,,AF_transc,gene-AF_14,0,176,0.0,0.0
+11,ND1_RNR2,Aphis_fabae,,0.0,0.0,0.0,0.0,RNR2,ND1,False,True,94.7,True,,gene,66.0,0.0,11134,11432,299,,,0,0,,,,,AF_transc,gene-AF_15,0,161,0.0,0.0
+12,RNR2_RNR1,Aphis_fabae,,0.0,0.0,0.0,0.0,RNR1,RNR2,True,True,95.7,False,,gene,71.0,0.0,12462,12760,299,,,0,0,,,,,AF_transc,gene-AF_16,0,166,0.0,0.0
+13,RNR1_ND2,Aphis_fabae,,0.0,0.0,0.0,0.0,ND2,RNR1,True,True,89.9,False,,,868.0,0.0,13314,13612,299,,,0,0,,,,,AF_transc,gene-AF_17gene-AF_18,0,192,0.0,0.0

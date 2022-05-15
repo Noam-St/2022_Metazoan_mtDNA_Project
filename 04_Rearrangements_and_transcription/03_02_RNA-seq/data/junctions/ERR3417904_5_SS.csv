@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Sus_scrofa,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,210.0,0.0,4878,5176,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_0gene-SS_1,0,400,0.0,0.0
+1,ND2_COX1,Sus_scrofa,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,,382.0,0.0,6130,6428,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_2gene-SS_3,0,400,0.0,0.0
+2,COX1_COX2,Sus_scrofa,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,147.0,0.0,8057,8355,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_4,0,346,0.0,0.0
+3,COX2_ATP8,Sus_scrofa,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,68.0,0.0,8892,9119,228,,,0,0,,,,,ssRNA_10_mammals,gene-SS_5,0,228,0.0,0.0
+4,ATP8_ATP6,Sus_scrofa,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,9120,9418,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_6,0,200,0.0,0.0
+5,ATP6_COX3,Sus_scrofa,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,9800,10098,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_7,0,200,0.0,0.0
+6,COX3_ND3,Sus_scrofa,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,69.0,0.0,10585,10883,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_8,0,268,0.0,0.0
+7,ND3_ND4L,Sus_scrofa,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,70.0,0.0,11000,11298,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_9,0,269,0.0,0.0
+8,ND4L_ND4,Sus_scrofa,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,11359,11657,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_10,0,200,0.0,0.0
+9,ND4_ND5,Sus_scrofa,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,198.0,0.0,12738,13036,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_11,0,397,0.0,0.0
+10,ND5_ND6,Sus_scrofa,,0.0,0.0,0.0,0.0,ND6,ND5,True,False,84.4,True,,gene,1.0,0.0,14739,15037,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_12,0,200,0.0,0.0
+11,ND6_CYTB,Sus_scrofa,,0.0,0.0,0.0,0.0,CYTB,ND6,False,True,99.2,True,,gene,75.0,0.0,15268,15566,299,,,0,0,,,,,ssRNA_10_mammals,gene-SS_13,0,274,0.0,0.0

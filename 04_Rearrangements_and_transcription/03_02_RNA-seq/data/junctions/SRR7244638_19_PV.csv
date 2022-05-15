@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,225.0,0.0,3791,4089,299,,,0,0,,,,,songbirds,gene-PV_0gene-PV_1,0,400,0.0,0.0
+1,ND2_COX1,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,,362.0,0.0,5056,5354,299,,,0,0,,,,,songbirds,gene-PV_2gene-PV_3,0,400,0.0,0.0
+2,COX1_COX2,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,149.0,0.0,6969,7267,299,,,0,0,,,,,songbirds,gene-PV_4,0,348,0.0,0.0
+3,COX2_ATP8,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,73.0,0.0,7802,8031,230,,,0,0,,,,,songbirds,gene-PV_5,0,230,0.0,0.0
+4,ATP8_ATP6,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,8032,8330,299,,,0,0,,,,,songbirds,gene-PV_6,0,200,0.0,0.0
+5,ATP6_COX3,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,2.0,0.0,8717,9015,299,,,0,0,,,,,songbirds,gene-PV_7,0,201,0.0,0.0
+6,COX3_ND3,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,68.0,0.0,9503,9801,299,,,0,0,,,,,songbirds,gene-PV_8,0,267,0.0,0.0
+7,ND3_ND4L,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,73.0,0.0,9922,10220,299,,,0,0,,,,,songbirds,gene-PV_9,0,272,0.0,0.0
+8,ND4L_ND4,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,10284,10582,299,,,0,0,,,,,songbirds,gene-PV_10,0,200,0.0,0.0
+9,ND4_ND5,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,208.0,0.0,11663,11961,299,,,0,0,,,,,songbirds,gene-PV_11gene-PV_12,0,400,0.0,0.0
+10,ND5_CYTB,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,CYTB,ND5,True,True,15.2,False,,gene,10.0,0.0,13689,13987,299,,,0,0,,,,,songbirds,gene-PV_13,0,209,0.0,0.0
+11,CYTB_ND6,Pardaliparus_venustulus,,0.0,0.0,0.0,0.0,ND6,CYTB,True,False,99.2,True,,gene,157.0,0.0,14842,15140,299,,,0,0,,,,,songbirds,gene-PV_14,0,356,0.0,0.0

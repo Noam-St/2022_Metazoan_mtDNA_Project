@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_CYTB,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,CYTB,ND1,True,True,63.8,False,,gene,51.0,0.0,3802,4100,299,,,0,0,,,,,PD_cdna2,gene-PD_1,0,146,0.0,0.0
+1,CYTB_ND2,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ND2,CYTB,True,True,35.2,False,,gene,4.0,0.0,4993,5291,299,,,0,0,,,,,PD_cdna2,gene-PD_2,0,99,0.0,0.0
+2,ND2_ND6,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ND6,ND2,True,True,35.2,False,,gene,1.0,0.0,6305,6603,299,,,0,0,,,,,PD_cdna2,gene-PD_3,0,96,0.0,0.0
+3,ND6_ATP6,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ATP6,ND6,True,True,38.0,False,,gene,1.0,0.0,6868,7166,299,,,0,0,,,,,PD_cdna2,gene-PD_4,0,96,0.0,0.0
+4,ATP6_ND4,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ND4,ATP6,True,True,34.3,False,,gene,1345.0,0.0,7547,7845,299,,,0,0,,,,,PD_cdna2,gene-PD_5gene-PD_6,0,192,0.0,0.0
+5,ND4_COX3,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,COX3,ND4,True,True,23.0,False,,gene,909.0,0.0,10383,10681,299,,,0,0,,,,,PD_cdna2,gene-PD_7gene-PD_8,0,192,0.0,0.0
+6,COX3_COX2,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,COX2,COX3,True,True,39.4,False,,gene,11.0,0.0,12072,12370,299,,,0,0,,,,,PD_cdna2,gene-PD_9,0,106,0.0,0.0
+7,COX2_ND4L,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ND4L,COX2,True,True,39.0,False,,gene,1.0,0.0,12864,13162,299,,,0,0,,,,,PD_cdna2,gene-PD_10,0,96,0.0,0.0
+8,ND4L_ND3,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ND3,ND4L,True,True,78.4,False,,gene,1.0,0.0,13163,13461,299,,,0,0,,,,,PD_cdna2,gene-PD_11,0,96,0.0,0.0
+9,ND3_ATP8,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ATP8,ND3,True,True,21.6,False,,gene,1265.0,0.0,13509,13807,299,,,0,0,,,,,PD_cdna2,gene-PD_12gene-PD_13,0,192,0.0,0.0
+10,ND5_ND1,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,ND1,ND5,True,True,24.9,False,,gene,-11867.0,0.0,14691,14986,296,,,0,0,,,,,PD_cdna2,gene-PD_0,0,11950,0.0,0.0
+11,ATP8_COX1,Pocillopora_damicornis,,0.0,0.0,0.0,0.0,COX1,ATP8,True,True,36.2,False,,,843.0,0.0,14987,15285,299,,,0,0,,,,,PD_cdna2,gene-PD_14gene-PD_15,0,192,0.0,0.0

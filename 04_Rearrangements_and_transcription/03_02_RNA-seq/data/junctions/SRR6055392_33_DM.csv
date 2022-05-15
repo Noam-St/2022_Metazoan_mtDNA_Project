@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,tRNA,211.0,0.0,1264,1562,299,,,0,0,,,,,DM_heads,gene-DM_0tRNA-DM_1,32.0,398.0,2302.9614826362567,147.59243121291007
+1,COX1_COX2,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,tRNA,72.0,0.0,3012,3310,299,,,0,0,,,,,DM_heads,gene-DM_2,1.0,271.0,52.84701741750635,3.386865061274112
+2,COX2_ATP8,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,tRNA,140.0,0.0,3768,4061,294,,,0,0,,,,,DM_heads,gene-DM_3,2.0,294.0,97.42545387853212,6.243812459899894
+3,ATP8_ATP6,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4062,4360,299,,,0,0,,,,,DM_heads,gene-DM_4,0.0,200.0,0.0,0.0
+4,ATP6_COX3,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4736,5034,299,,,0,0,,,,,DM_heads,gene-DM_5,4.0,200.0,286.43083440288444,18.356808632105693
+5,COX3_ND3,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,tRNA,82.0,0.0,5527,5825,299,,,0,0,,,,,DM_heads,gene-DM_6,0.0,281.0,0.0,0.0
+6,ND3_ND5,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,tRNA,446.0,0.0,5964,6262,299,,,0,0,,,,,DM_heads,0.0,0.0,0.0,0.0,0.0
+7,ND5_ND4,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,tRNA,80.0,0.0,8128,8426,299,,,0,0,,,,,DM_heads,gene-DM_10,1.0,279.0,51.33169075320509,3.289750650914998
+8,ND4_ND4L,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9545,9837,293,,,0,0,,,,,DM_heads,gene-DM_11,148.0,200.0,10597.940872906724,679.2019193879105
+9,ND4L_ND6,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,tRNA,134.0,0.0,9838,10136,299,,,0,0,,,,,DM_heads,0.0,0.0,0.0,0.0,0.0
+10,ND6_CYTB,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,2.0,0.0,10498,10796,299,,,0,0,,,,,DM_heads,gene-DM_9,20.0,201.0,1425.029026880022,91.32740612987905
+11,CYTB_ND1,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,tRNA,84.0,0.0,11638,11936,299,,,0,0,,,,,DM_heads,0.0,0.0,0.0,0.0,0.0
+12,ND1_lrRNA,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,lrRNA,ND1,False,False,94.7,False,,tRNA,74.0,0.0,12662,12960,299,,,0,0,,,,,DM_heads,gene-DM_14,0.0,273.0,0.0,0.0
+13,lrRNA_srRNA,Drosophila_melanogaster,,0.0,0.0,0.0,0.0,srRNA,lrRNA,False,False,95.7,False,,tRNA,74.0,0.0,14058,14356,299,,,0,0,,,,,DM_heads,rRNA-DM_15,0.0,273.0,0.0,0.0

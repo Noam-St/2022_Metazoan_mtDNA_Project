@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Blattella_germanica,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,193.0,0.0,1245,1543,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_0,0,392,0.0,0.0
+1,COX1_COX2,Blattella_germanica,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,69.0,0.0,2974,3272,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_1,0,268,0.0,0.0
+2,COX2_ATP8,Blattella_germanica,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,140.0,0.0,3728,4018,291,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_2,0,291,0.0,0.0
+3,ATP8_ATP6,Blattella_germanica,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4019,4317,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_3,0,200,0.0,0.0
+4,ATP6_COX3,Blattella_germanica,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4699,4997,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_4,0,200,0.0,0.0
+5,COX3_ND3,Blattella_germanica,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,67.0,0.0,5489,5787,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_5,0,266,0.0,0.0
+6,ND3_ND5,Blattella_germanica,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,409.0,0.0,5910,6208,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_6gene-BG_7,0,400,0.0,0.0
+7,ND5_ND4,Blattella_germanica,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,79.0,0.0,8035,8333,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_8,0,278,0.0,0.0
+8,ND4_ND4L,Blattella_germanica,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9446,9728,283,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_9,0,200,0.0,0.0
+9,ND4L_ND6,Blattella_germanica,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,135.0,0.0,9729,10027,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_10,0,334,0.0,0.0
+10,ND6_CYTB,Blattella_germanica,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,10363,10661,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_11,0,200,0.0,0.0
+11,CYTB_ND1,Blattella_germanica,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,87.0,0.0,11498,11796,299,,,0,0,,,,,BL_cockroach_transcriptome_est,gene-BG_12,0,286,0.0,0.0

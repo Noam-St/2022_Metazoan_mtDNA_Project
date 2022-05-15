@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,207.0,0.0,3635,3933,299,,,0,0,,,,,AC_green_anole,gene-AC_0gene-AC_1,0,300,0.0,0.0
+1,ND2_COX1,Anolis_carolinensis,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,,381.0,0.0,4878,5176,299,,,0,0,,,,,AC_green_anole,gene-AC_2gene-AC_3,0,300,0.0,0.0
+2,COX1_COX2,Anolis_carolinensis,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,137.0,0.0,6804,7102,299,,,0,0,,,,,AC_green_anole,gene-AC_4,0,286,0.0,0.0
+3,COX2_ATP8,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,66.0,0.0,7629,7851,223,,,0,0,,,,,AC_green_anole,gene-AC_5,0,215,0.0,0.0
+4,ATP8_ATP6,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,7852,8150,299,,,0,0,,,,,AC_green_anole,gene-AC_6,0,150,0.0,0.0
+5,ATP6_COX3,Anolis_carolinensis,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,8535,8833,299,,,0,0,,,,,AC_green_anole,gene-AC_7,0,150,0.0,0.0
+6,COX3_ND3,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,67.0,0.0,9320,9618,299,,,0,0,,,,,AC_green_anole,gene-AC_8,0,216,0.0,0.0
+7,ND3_ND4L,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,68.0,0.0,9733,10031,299,,,0,0,,,,,AC_green_anole,gene-AC_9,0,217,0.0,0.0
+8,ND4L_ND4,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,10090,10388,299,,,0,0,,,,,AC_green_anole,gene-AC_10,0,150,0.0,0.0
+9,ND4_ND5,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,215.0,0.0,11456,11754,299,,,0,0,,,,,AC_green_anole,gene-AC_11gene-AC_12,0,300,0.0,0.0
+10,ND5_ND6,Anolis_carolinensis,,0.0,0.0,0.0,0.0,ND6,ND5,True,False,84.4,True,,gene,1.0,0.0,13471,13769,299,,,0,0,,,,,AC_green_anole,gene-AC_13,0,150,0.0,0.0
+11,ND6_CYTB,Anolis_carolinensis,,0.0,0.0,0.0,0.0,CYTB,ND6,False,True,99.2,True,,gene,72.0,0.0,13997,14295,299,,,0,0,,,,,AC_green_anole,gene-AC_14,0,221,0.0,0.0

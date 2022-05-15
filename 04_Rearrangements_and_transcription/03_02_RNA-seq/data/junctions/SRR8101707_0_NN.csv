@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,COX2,COX1,False,True,31.0,True,,gene,71.0,0.0,1550,1848,299,,,0,0,,,,,NN_random,gene-NN_0,0,166,0.0,0.0
+1,COX2_ATP8,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,38.5,False,,gene,79.0,0.0,2365,2647,283,,,0,0,,,,,NN_random,gene-NN_1,0,174,0.0,0.0
+2,ATP8_ATP6,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,58.7,False,,gene,2.0,0.0,2648,2946,299,,,0,0,,,,,NN_random,gene-NN_2,0,97,0.0,0.0
+3,ATP6_COX3,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,39.0,False,,gene,1.0,0.0,3351,3649,299,,,0,0,,,,,NN_random,gene-NN_3,0,96,0.0,0.0
+4,COX3_ND2,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND2,COX3,True,True,13.6,False,,gene,319.0,0.0,4138,4436,299,,,0,0,,,,,NN_random,gene-NN_4gene-NN_5,0,192,0.0,0.0
+5,ND2_ND5,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND5,ND2,True,True,38.5,False,,gene,121.0,0.0,5537,5835,299,,,0,0,,,,,NN_random,gene-NN_6gene-NN_7,0,192,0.0,0.0
+6,ND5_rrns,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,rrns,ND5,True,True,14.1,False,,gene,1.0,0.0,7352,7650,299,,,0,0,,,,,NN_random,gene-NN_8,0,96,0.0,0.0
+7,rrns_ND6,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND6,rrns,True,True,14.1,False,,gene,26.0,0.0,8281,8579,299,,,0,0,,,,,NN_random,gene-NN_9,0,121,0.0,0.0
+8,ND6_ND3,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND3,ND6,True,True,39.0,False,,gene,4.0,0.0,8835,9133,299,,,0,0,,,,,NN_random,gene-NN_10,0,99,0.0,0.0
+9,ND3_ND4L,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,78.4,False,,gene,41.0,0.0,9175,9467,293,,,0,0,,,,,NN_random,gene-NN_11,0,136,0.0,0.0
+10,ND4L_ND1,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND1,ND4L,True,True,14.1,False,,gene,11.0,0.0,9468,9766,299,,,0,0,,,,,NN_random,gene-NN_12,0,106,0.0,0.0
+11,ND1_ND4,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,ND4,ND1,True,True,14.1,False,,gene,108.0,0.0,10439,10737,299,,,0,0,,,,,NN_random,gene-NN_13gene-NN_14,0,192,0.0,0.0
+12,ND4_CYTB,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,CYTB,ND4,True,True,14.1,False,,gene,7.0,0.0,11879,12177,299,,,0,0,,,,,NN_random,gene-NN_15,0,102,0.0,0.0
+13,CYTB_rrnL,Nemopilema_nomurai,,0.0,0.0,0.0,0.0,rrnL,CYTB,True,False,14.6,True,,,2170.0,0.0,13017,13315,299,,,0,0,,,,,NN_random,gene-NN_16gene-NN_17,0,192,0.0,0.0

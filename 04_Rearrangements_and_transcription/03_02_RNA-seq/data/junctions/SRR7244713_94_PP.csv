@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Poecile_palustris,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,223.0,0.0,3789,4087,299,,,0,0,,,,,songbirds,gene-PP_0gene-PP_1,0,400,0.0,0.0
+1,ND2_COX1,Poecile_palustris,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,gene,354.0,0.0,5051,5349,299,,,0,0,,,,,songbirds,gene-PP_2gene-PP_3,0,400,0.0,0.0
+2,COX1_COX2,Poecile_palustris,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,160.0,0.0,6955,7253,299,,,0,0,,,,,songbirds,gene-PP_4,0,359,0.0,0.0
+3,COX2_ATP8,Poecile_palustris,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,73.0,0.0,7796,8025,230,,,0,0,,,,,songbirds,gene-PP_5,0,230,0.0,0.0
+4,ATP8_ATP6,Poecile_palustris,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,8026,8324,299,,,0,0,,,,,songbirds,gene-PP_6,0,200,0.0,0.0
+5,ATP6_COX3,Poecile_palustris,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,4.0,0.0,8711,9009,299,,,0,0,,,,,songbirds,gene-PP_7,0,203,0.0,0.0
+6,COX3_ND3,Poecile_palustris,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,75.0,0.0,9498,9796,299,,,0,0,,,,,songbirds,gene-PP_8,0,274,0.0,0.0
+7,ND3_ND4L,Poecile_palustris,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,73.0,0.0,9918,10216,299,,,0,0,,,,,songbirds,gene-PP_9,0,272,0.0,0.0
+8,ND4L_ND4,Poecile_palustris,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,10280,10578,299,,,0,0,,,,,songbirds,gene-PP_10,0,200,0.0,0.0
+9,ND4_ND5,Poecile_palustris,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,210.0,0.0,11658,11956,299,,,0,0,,,,,songbirds,gene-PP_11gene-PP_12,0,400,0.0,0.0
+10,ND5_CYTB,Poecile_palustris,,0.0,0.0,0.0,0.0,CYTB,ND5,True,True,15.2,False,,gene,7.0,0.0,13686,13984,299,,,0,0,,,,,songbirds,gene-PP_13,0,206,0.0,0.0
+11,CYTB_ND6,Poecile_palustris,,0.0,0.0,0.0,0.0,ND6,CYTB,True,False,99.2,True,,gene,161.0,0.0,14836,15134,299,,,0,0,,,,,songbirds,gene-PP_14,0,360,0.0,0.0

@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Plutella_xylostella,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,208.0,0.0,1270,1568,299,,,0,0,,,,,PX_rna,gene-PX_0gene-PX_1,0,192,0.0,0.0
+1,COX1_COX2,Plutella_xylostella,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,67.0,0.0,3009,3307,299,,,0,0,,,,,PX_rna,gene-PX_2,0,162,0.0,0.0
+2,COX2_ATP8,Plutella_xylostella,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,136.0,0.0,3755,4050,296,,,0,0,,,,,PX_rna,gene-PX_3gene-PX_4,0,192,0.0,0.0
+3,ATP8_ATP6,Plutella_xylostella,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4051,4349,299,,,0,0,,,,,PX_rna,gene-PX_5,0,96,0.0,0.0
+4,ATP6_COX3,Plutella_xylostella,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,59.0,0.0,4730,5028,299,,,0,0,,,,,PX_rna,gene-PX_6,0,154,0.0,0.0
+5,COX3_ND3,Plutella_xylostella,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,67.0,0.0,5578,5876,299,,,0,0,,,,,PX_rna,gene-PX_7,0,162,0.0,0.0
+6,ND3_ND5,Plutella_xylostella,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,499.0,0.0,5999,6297,299,,,0,0,,,,,PX_rna,gene-PX_8gene-PX_9,0,192,0.0,0.0
+7,ND5_ND4,Plutella_xylostella,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,79.0,0.0,8220,8518,299,,,0,0,,,,,PX_rna,gene-PX_10,0,174,0.0,0.0
+8,ND4_ND4L,Plutella_xylostella,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9637,9928,292,,,0,0,,,,,PX_rna,gene-PX_11,0,96,0.0,0.0
+9,ND4L_ND6,Plutella_xylostella,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,148.0,0.0,9929,10227,299,,,0,0,,,,,PX_rna,gene-PX_12gene-PX_13,0,192,0.0,0.0
+10,ND6_CYTB,Plutella_xylostella,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,35.0,0.0,10611,10909,299,,,0,0,,,,,PX_rna,gene-PX_14,0,130,0.0,0.0
+11,CYTB_ND1,Plutella_xylostella,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,85.0,0.0,11798,12096,299,,,0,0,,,,,PX_rna,gene-PX_15,0,180,0.0,0.0

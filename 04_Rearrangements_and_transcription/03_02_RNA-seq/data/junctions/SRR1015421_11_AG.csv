@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Aphis_glycines,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,188.0,0.0,1174,1472,299,,,0,0,,,,,AG_gexpr,gene-AG_0gene-AG_1,0,192,0.0,0.0
+1,COX1_COX2,Aphis_glycines,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,72.0,0.0,2892,3190,299,,,0,0,,,,,AG_gexpr,gene-AG_2,0,167,0.0,0.0
+2,COX2_ATP8,Aphis_glycines,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,138.0,0.0,3636,3932,297,,,0,0,,,,,AG_gexpr,gene-AG_3gene-AG_4,0,192,0.0,0.0
+3,ATP8_ATP6,Aphis_glycines,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,3933,4231,299,,,0,0,,,,,AG_gexpr,gene-AG_5,0,96,0.0,0.0
+4,ATP6_COX3,Aphis_glycines,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4565,4863,299,,,0,0,,,,,AG_gexpr,gene-AG_6,0,96,0.0,0.0
+5,COX3_ND3,Aphis_glycines,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,64.0,0.0,5350,5648,299,,,0,0,,,,,AG_gexpr,gene-AG_7,0,159,0.0,0.0
+6,ND3_ND5,Aphis_glycines,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,gene,2709.0,0.0,5767,6065,299,,,0,0,,,,,AG_gexpr,gene-AG_8gene-AG_9,0,192,0.0,0.0
+7,ND5_ND4,Aphis_glycines,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,121.0,0.0,10147,10445,299,,,0,0,,,,,AG_gexpr,gene-AG_10gene-AG_11,0,192,0.0,0.0
+8,ND4_ND4L,Aphis_glycines,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,11584,11875,292,,,0,0,,,,,AG_gexpr,gene-AG_12,0,96,0.0,0.0
+9,ND4L_ND6,Aphis_glycines,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,136.0,0.0,11876,12174,299,,,0,0,,,,,AG_gexpr,gene-AG_13gene-AG_14,0,192,0.0,0.0
+10,ND6_CYTB,Aphis_glycines,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,3.0,0.0,12504,12802,299,,,0,0,,,,,AG_gexpr,gene-AG_15,0,98,0.0,0.0
+11,CYTB_ND1,Aphis_glycines,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,82.0,0.0,13623,13921,299,,,0,0,,,,,AG_gexpr,gene-AG_16,0,177,0.0,0.0
+12,ND1_RNR2,Aphis_glycines,,0.0,0.0,0.0,0.0,RNR2,ND1,False,False,94.7,False,,gene,66.0,0.0,14640,14938,299,,,0,0,,,,,AG_gexpr,gene-AG_17,0,161,0.0,0.0
+13,RNR2_RNR1,Aphis_glycines,,0.0,0.0,0.0,0.0,RNR1,RNR2,False,False,95.7,False,,gene,63.0,0.0,15966,16264,299,,,0,0,,,,,AG_gexpr,gene-AG_18,0,158,0.0,0.0

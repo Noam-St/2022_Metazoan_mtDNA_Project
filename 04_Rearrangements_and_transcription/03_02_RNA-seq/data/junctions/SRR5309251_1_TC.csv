@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Tribolium_castaneum,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,178.0,0.0,1206,1504,299,,,0,0,,,,,TC_transc,gene-TC_0gene-TC_1,0,192,0.0,0.0
+1,COX1_COX2,Tribolium_castaneum,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,66.0,0.0,2944,3242,299,,,0,0,,,,,TC_transc,gene-TC_2,0,161,0.0,0.0
+2,COX2_ATP8,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,171.0,0.0,3694,3992,299,,,0,0,,,,,TC_transc,gene-TC_3gene-TC_4,0,192,0.0,0.0
+3,ATP8_ATP6,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4013,4311,299,,,0,0,,,,,TC_transc,gene-TC_5,0,96,0.0,0.0
+4,ATP6_COX3,Tribolium_castaneum,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4684,4982,299,,,0,0,,,,,TC_transc,gene-TC_6,0,96,0.0,0.0
+5,COX3_ND3,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,57.0,0.0,5471,5769,299,,,0,0,,,,,TC_transc,gene-TC_7,0,152,0.0,0.0
+6,ND3_ND5,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,gene,379.0,0.0,5885,6183,299,,,0,0,,,,,TC_transc,gene-TC_8gene-TC_9,0,192,0.0,0.0
+7,ND5_ND4,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,66.0,0.0,7974,8272,299,,,0,0,,,,,TC_transc,gene-TC_10,0,161,0.0,0.0
+8,ND4_ND4L,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9365,9653,289,,,0,0,,,,,TC_transc,gene-TC_11,0,96,0.0,0.0
+9,ND4L_ND6,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,133.0,0.0,9654,9952,299,,,0,0,,,,,TC_transc,gene-TC_12gene-TC_13,0,192,0.0,0.0
+10,ND6_CYTB,Tribolium_castaneum,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,10280,10578,299,,,0,0,,,,,TC_transc,gene-TC_14,0,96,0.0,0.0
+11,CYTB_ND1,Tribolium_castaneum,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,86.0,0.0,11418,11716,299,,,0,0,,,,,TC_transc,gene-TC_15,0,181,0.0,0.0

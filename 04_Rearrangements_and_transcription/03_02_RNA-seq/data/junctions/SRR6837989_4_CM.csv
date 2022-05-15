@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX3_ND3,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,44.2,False,,,338.0,0.0,782,1080,299,,,0,0,,,,,OM_cdna,gene-CM_0gene-CM_1,0,192,0.0,0.0
+1,ND3_ND2,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND2,ND3,True,True,50.1,False,,gene,67.0,0.0,1471,1769,299,,,0,0,,,,,OM_cdna,gene-CM_2,0,162,0.0,0.0
+2,ND2_COX1,Callistoctopus_minor,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,67.2,False,,gene,1.0,0.0,2546,2844,299,,,0,0,,,,,OM_cdna,gene-CM_3,0,96,0.0,0.0
+3,COX1_COX2,Callistoctopus_minor,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,60.9,False,,gene,5.0,0.0,4080,4378,299,,,0,0,,,,,OM_cdna,gene-CM_4,0,100,0.0,0.0
+4,COX2_ATP8,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,55.0,False,,gene,74.0,0.0,4772,4989,218,,,0,0,,,,,OM_cdna,gene-CM_5,0,169,0.0,0.0
+5,ATP8_ATP6,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,74.1,False,,gene,1.0,0.0,4990,5288,299,,,0,0,,,,,OM_cdna,gene-CM_6,0,96,0.0,0.0
+6,ATP6_ND5,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND5,ATP6,True,False,18.1,True,,gene,86.0,0.0,5696,5994,299,,,0,0,,,,,OM_cdna,gene-CM_7,0,181,0.0,0.0
+7,ND5_ND4,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,47.9,False,,gene,67.0,0.0,7478,7776,299,,,0,0,,,,,OM_cdna,gene-CM_8,0,162,0.0,0.0
+8,ND4_ND4L,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,60.5,False,,gene,1.0,0.0,8884,9181,298,,,0,0,,,,,OM_cdna,gene-CM_9,0,96,0.0,0.0
+9,ND4L_CYTB,Callistoctopus_minor,,0.0,0.0,0.0,0.0,CYTB,ND4L,False,False,58.9,False,,gene,133.0,0.0,9182,9480,299,,,0,0,,,,,OM_cdna,gene-CM_10gene-CM_11,0,192,0.0,0.0
+10,CYTB_ND6,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND6,CYTB,False,False,48.9,False,,gene,1.0,0.0,10446,10744,299,,,0,0,,,,,OM_cdna,gene-CM_12,0,96,0.0,0.0
+11,ND6_ND1,Callistoctopus_minor,,0.0,0.0,0.0,0.0,ND1,ND6,False,False,57.8,False,,gene,68.0,0.0,10960,11258,299,,,0,0,,,,,OM_cdna,gene-CM_13,0,163,0.0,0.0

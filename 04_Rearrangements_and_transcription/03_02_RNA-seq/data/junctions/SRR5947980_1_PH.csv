@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,125.0,0.0,2067,2365,299,,,0,0,,,,,PH_transc,gene-PH_0gene-PH_1,0,192,0.0,0.0
+1,COX1_COX2,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,61.0,0.0,3728,4026,299,,,0,0,,,,,PH_transc,gene-PH_2,0,156,0.0,0.0
+2,COX2_ATP8,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,246.0,0.0,4467,4765,299,,,0,0,,,,,PH_transc,gene-PH_3gene-PH_4,0,192,0.0,0.0
+3,ATP8_ATP6,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4870,5168,299,,,0,0,,,,,PH_transc,gene-PH_5,0,96,0.0,0.0
+4,ATP6_COX3,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,5538,5836,299,,,0,0,,,,,PH_transc,gene-PH_6,0,96,0.0,0.0
+5,COX3_ND3,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,1.0,0.0,6323,6621,299,,,0,0,,,,,PH_transc,gene-PH_7,0,96,0.0,0.0
+6,ND3_ND5,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,gene,227.0,0.0,6676,6974,299,,,0,0,,,,,PH_transc,gene-PH_8gene-PH_9,0,192,0.0,0.0
+7,ND5_ND4,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,76.0,0.0,8601,8899,299,,,0,0,,,,,PH_transc,gene-PH_10,0,171,0.0,0.0
+8,ND4_ND4L,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,2.0,0.0,9974,10263,290,,,0,0,,,,,PH_transc,gene-PH_11,0,97,0.0,0.0
+9,ND4L_ND6,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,471.0,0.0,10264,10562,299,,,0,0,,,,,PH_transc,gene-PH_12gene-PH_13,0,192,0.0,0.0
+10,ND6_CYTB,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,11234,11532,299,,,0,0,,,,,PH_transc,gene-PH_14,0,96,0.0,0.0
+11,CYTB_ND1,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,83.0,0.0,12366,12664,299,,,0,0,,,,,PH_transc,gene-PH_15,0,178,0.0,0.0
+12,ND1_rrnL,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,rrnL,ND1,False,False,94.7,False,,gene,63.0,0.0,13375,13673,299,,,0,0,,,,,PH_transc,gene-PH_16,0,158,0.0,0.0
+13,rrnL_rrnS,Parhyale_hawaiensis,,0.0,0.0,0.0,0.0,rrnS,rrnL,False,False,95.7,False,,gene,59.0,0.0,14367,14665,299,,,0,0,,,,,PH_transc,gene-PH_17,0,154,0.0,0.0

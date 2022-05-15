@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,184.0,0.0,1031,1329,299,,,0,0,,,,,MM_transcriptome,gene-MM_0gene-MM_1,0,192,0.0,0.0
+1,COX1_COX2,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,1.0,0.0,2747,3045,299,,,0,0,,,,,MM_transcriptome,gene-MM_2,0,96,0.0,0.0
+2,COX2_ATP8,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,64.0,0.0,3424,3638,215,,,0,0,,,,,MM_transcriptome,gene-MM_3,0,159,0.0,0.0
+3,ATP8_ATP6,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,3639,3937,299,,,0,0,,,,,MM_transcriptome,gene-MM_4,0,96,0.0,0.0
+4,ATP6_COX3,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4302,4600,299,,,0,0,,,,,MM_transcriptome,gene-MM_5,0,96,0.0,0.0
+5,COX3_ND3,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,61.0,0.0,5091,5389,299,,,0,0,,,,,MM_transcriptome,gene-MM_6,0,156,0.0,0.0
+6,ND3_ND5,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,357.0,0.0,5495,5793,299,,,0,0,,,,,MM_transcriptome,gene-MM_7gene-MM_8,0,192,0.0,0.0
+7,ND5_ND4,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,74.0,0.0,7509,7807,299,,,0,0,,,,,MM_transcriptome,gene-MM_9,0,169,0.0,0.0
+8,ND4_ND4L,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,8898,9184,287,,,0,0,,,,,MM_transcriptome,gene-MM_10,0,96,0.0,0.0
+9,ND4L_ND6,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,120.0,0.0,9185,9483,299,,,0,0,,,,,MM_transcriptome,gene-MM_11gene-MM_12,0,192,0.0,0.0
+10,ND6_CYTB,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,9737,10035,299,,,0,0,,,,,MM_transcriptome,gene-MM_13,0,96,0.0,0.0
+11,CYTB_ND1,Mesobuthus_martensii,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,76.0,0.0,10842,11140,299,,,0,0,,,,,MM_transcriptome,gene-MM_14,0,171,0.0,0.0

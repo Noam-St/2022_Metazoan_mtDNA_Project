@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX3_ND3,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,44.2,False,,gene,355.0,0.0,782,1080,299,,,0,0,,,,,OV_cdna,gene-OV_0gene-OV_1,0,192,0.0,0.0
+1,ND3_ND2,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND2,ND3,True,True,50.1,False,,gene,71.0,0.0,1485,1783,299,,,0,0,,,,,OV_cdna,gene-OV_2,0,166,0.0,0.0
+2,ND2_COX1,Octopus_vulgaris,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,67.2,False,,gene,1.0,0.0,2564,2862,299,,,0,0,,,,,OV_cdna,gene-OV_3,0,96,0.0,0.0
+3,COX1_COX2,Octopus_vulgaris,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,60.9,False,,gene,11.0,0.0,4098,4396,299,,,0,0,,,,,OV_cdna,gene-OV_4,0,106,0.0,0.0
+4,COX2_ATP8,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,55.0,False,,gene,69.0,0.0,4793,5017,225,,,0,0,,,,,OV_cdna,gene-OV_5,0,164,0.0,0.0
+5,ATP8_ATP6,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,74.1,False,,gene,1.0,0.0,5018,5316,299,,,0,0,,,,,OV_cdna,gene-OV_6,0,96,0.0,0.0
+6,ATP6_ND5,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND5,ATP6,True,False,18.1,True,,gene,68.0,0.0,5735,6033,299,,,0,0,,,,,OV_cdna,gene-OV_7,0,163,0.0,0.0
+7,ND5_ND4,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,47.9,False,,gene,71.0,0.0,7495,7793,299,,,0,0,,,,,OV_cdna,gene-OV_8,0,166,0.0,0.0
+8,ND4_ND4L,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,60.5,False,,gene,1.0,0.0,8905,9202,298,,,0,0,,,,,OV_cdna,gene-OV_9,0,96,0.0,0.0
+9,ND4L_CYTB,Octopus_vulgaris,,0.0,0.0,0.0,0.0,CYTB,ND4L,False,False,58.9,False,,gene,144.0,0.0,9203,9501,299,,,0,0,,,,,OV_cdna,gene-OV_10gene-OV_11,0,192,0.0,0.0
+10,CYTB_ND6,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND6,CYTB,False,False,48.9,False,,gene,1.0,0.0,10476,10774,299,,,0,0,,,,,OV_cdna,gene-OV_12,0,96,0.0,0.0
+11,ND6_ND1,Octopus_vulgaris,,0.0,0.0,0.0,0.0,ND1,ND6,False,False,57.8,False,,gene,71.0,0.0,10990,11288,299,,,0,0,,,,,OV_cdna,gene-OV_13,0,166,0.0,0.0

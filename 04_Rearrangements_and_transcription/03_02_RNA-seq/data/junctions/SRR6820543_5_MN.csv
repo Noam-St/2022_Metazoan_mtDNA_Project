@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,66.0,0.0,1537,1835,299,,,0,0,,,,,MN_transc,gene-MN_0,0,161,0.0,0.0
+1,COX2_ATP8,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,134.0,0.0,2288,2572,285,,,0,0,,,,,MN_transc,gene-MN_1gene-MN_2,0,192,0.0,0.0
+2,ATP8_ATP6,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,2573,2871,299,,,0,0,,,,,MN_transc,gene-MN_3,0,96,0.0,0.0
+3,ATP6_COX3,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,3247,3545,299,,,0,0,,,,,MN_transc,gene-MN_4,0,96,0.0,0.0
+4,COX3_ND3,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,71.0,0.0,4037,4335,299,,,0,0,,,,,MN_transc,gene-MN_5,0,166,0.0,0.0
+5,ND3_ND5,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,399.0,0.0,4462,4760,299,,,0,0,,,,,MN_transc,gene-MN_6gene-MN_7,0,192,0.0,0.0
+6,ND5_ND4,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,84.0,0.0,6568,6866,299,,,0,0,,,,,MN_transc,gene-MN_8,0,179,0.0,0.0
+7,ND4_ND4L,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,7979,8277,299,,,0,0,,,,,MN_transc,gene-MN_9,0,96,0.0,0.0
+8,ND4L_ND6,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,132.0,0.0,8280,8578,299,,,0,0,,,,,MN_transc,gene-MN_10gene-MN_11,0,192,0.0,0.0
+9,ND6_CYTB,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,8926,9224,299,,,0,0,,,,,MN_transc,gene-MN_12,0,96,0.0,0.0
+10,CYTB_ND1,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,88.0,0.0,10062,10360,299,,,0,0,,,,,MN_transc,gene-MN_13,0,183,0.0,0.0
+11,ND1_ND2,Macrobrachium_nipponense,,0.0,0.0,0.0,0.0,ND2,ND1,False,True,2.0,True,,,3526.0,0.0,11092,11390,299,,,0,0,,,,,MN_transc,gene-MN_14gene-MN_15,0,192,0.0,0.0

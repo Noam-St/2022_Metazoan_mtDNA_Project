@@ -1,0 +1,12 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,CYTB_COX2,Mytilus_coruscus,,0.0,0.0,0.0,0.0,COX2,CYTB,True,True,31.2,False,,gene,2.0,0.0,2491,2789,299,,,0,0,,,,,MC_transcriptome,gene-MC_0,0,201,0.0,0.0
+1,COX2_ND1,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND1,COX2,True,True,3.5,False,,,365.0,0.0,3222,3520,299,,,0,0,,,,,MC_transcriptome,gene-MC_1gene-MC_2,0,400,0.0,0.0
+2,ND1_ND4,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND4,ND1,True,True,4.5,False,,gene,70.0,0.0,4511,4809,299,,,0,0,,,,,MC_transcriptome,gene-MC_3,0,269,0.0,0.0
+3,ND4_COX3,Mytilus_coruscus,,0.0,0.0,0.0,0.0,COX3,ND4,True,True,19.3,False,,gene,4.0,0.0,5886,6184,299,,,0,0,,,,,MC_transcriptome,gene-MC_4,0,203,0.0,0.0
+4,COX3_ND2,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND2,COX3,True,True,26.5,False,,gene,146.0,0.0,6826,7124,299,,,0,0,,,,,MC_transcriptome,gene-MC_5,0,345,0.0,0.0
+5,ND2_ND3,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND3,ND2,True,True,50.1,False,,,407.0,0.0,7920,8218,299,,,0,0,,,,,MC_transcriptome,gene-MC_6gene-MC_7,0,400,0.0,0.0
+6,ND3_COX1,Mytilus_coruscus,,0.0,0.0,0.0,0.0,COX1,ND3,True,True,6.5,False,,gene,286.0,0.0,8678,8976,299,,,0,0,,,,,MC_transcriptome,gene-MC_8gene-MC_9,0,400,0.0,0.0
+7,COX1_ATP6,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ATP6,COX1,True,True,2.9,False,,gene,9.0,0.0,10620,10918,299,,,0,0,,,,,MC_transcriptome,gene-MC_10,0,208,0.0,0.0
+8,ATP6_ND4L,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND4L,ATP6,True,True,2.4,False,,gene,66.0,0.0,11346,11644,299,,,0,0,,,,,MC_transcriptome,gene-MC_11,0,265,0.0,0.0
+9,ND4L_ND5,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND5,ND4L,True,True,4.3,False,,gene,7.0,0.0,11694,11992,299,,,0,0,,,,,MC_transcriptome,gene-MC_12,0,206,0.0,0.0
+10,ND5_ND6,Mytilus_coruscus,,0.0,0.0,0.0,0.0,ND6,ND5,True,True,27.3,False,,gene,1.0,0.0,13409,13707,299,,,0,0,,,,,MC_transcriptome,gene-MC_13,0,200,0.0,0.0

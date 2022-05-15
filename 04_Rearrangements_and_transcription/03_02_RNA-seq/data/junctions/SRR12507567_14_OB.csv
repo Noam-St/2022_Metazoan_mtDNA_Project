@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX3_ND3,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,44.2,False,,gene,349.0,0.0,782,1080,299,,,0,0,,,,,OB_cdna,gene-OB_0gene-OB_1,0,192,0.0,0.0
+1,ND3_ND2,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND2,ND3,True,True,50.1,False,,gene,70.0,0.0,1479,1777,299,,,0,0,,,,,OB_cdna,gene-OB_2,0,165,0.0,0.0
+2,ND2_COX1,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,67.2,False,,gene,1.0,0.0,2557,2855,299,,,0,0,,,,,OB_cdna,gene-OB_3,0,96,0.0,0.0
+3,COX1_COX2,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,60.9,False,,gene,11.0,0.0,4091,4389,299,,,0,0,,,,,OB_cdna,gene-OB_4,0,106,0.0,0.0
+4,COX2_ATP8,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,55.0,False,,gene,68.0,0.0,4786,5009,224,,,0,0,,,,,OB_cdna,gene-OB_5,0,163,0.0,0.0
+5,ATP8_ATP6,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,74.1,False,,gene,1.0,0.0,5010,5308,299,,,0,0,,,,,OB_cdna,gene-OB_6,0,96,0.0,0.0
+6,ATP6_ND5,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND5,ATP6,True,False,18.1,True,,gene,69.0,0.0,5728,6026,299,,,0,0,,,,,OB_cdna,gene-OB_7,0,164,0.0,0.0
+7,ND5_ND4,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,47.9,False,,gene,70.0,0.0,7489,7787,299,,,0,0,,,,,OB_cdna,gene-OB_8,0,165,0.0,0.0
+8,ND4_ND4L,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,60.5,False,,gene,1.0,0.0,8898,9195,298,,,0,0,,,,,OB_cdna,gene-OB_9,0,96,0.0,0.0
+9,ND4L_CYTB,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,CYTB,ND4L,False,False,58.9,False,,gene,138.0,0.0,9196,9494,299,,,0,0,,,,,OB_cdna,gene-OB_10gene-OB_11,0,192,0.0,0.0
+10,CYTB_ND6,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND6,CYTB,False,False,48.9,False,,gene,1.0,0.0,10465,10763,299,,,0,0,,,,,OB_cdna,gene-OB_12,0,96,0.0,0.0
+11,ND6_ND1,Octopus_bimaculoides,,0.0,0.0,0.0,0.0,ND1,ND6,False,False,57.8,False,,gene,72.0,0.0,10979,11277,299,,,0,0,,,,,OB_cdna,gene-OB_13,0,167,0.0,0.0

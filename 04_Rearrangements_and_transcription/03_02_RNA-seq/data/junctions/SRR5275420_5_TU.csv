@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_ND3,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND3,COX1,True,True,1.0,False,,gene,44.0,0.0,1541,1839,299,,,0,0,,,,,TU_transcriptome,gene-TU_0,0,243,0.0,0.0
+1,ND3_ND4L,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND4L,ND3,True,False,0.4,True,,gene,1278.0,0.0,1920,2218,299,,,0,0,,,,,TU_transcriptome,gene-TU_1gene-TU_2,0,400,0.0,0.0
+2,ND4L_COX3,Tetranychus_urticae,,0.0,0.0,0.0,0.0,COX3,ND4L,False,False,0.5,False,,gene,104.0,0.0,3443,3741,299,,,0,0,,,,,TU_transcriptome,gene-TU_3,0,303,0.0,0.0
+3,COX3_ATP6,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ATP6,COX3,False,False,97.8,False,,gene,1.0,0.0,4333,4631,299,,,0,0,,,,,TU_transcriptome,gene-TU_4,0,200,0.0,0.0
+4,ATP6_ATP8,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ATP8,ATP6,False,False,99.5,False,,gene,1.0,0.0,4952,5081,130,,,0,0,,,,,TU_transcriptome,gene-TU_5,0,130,0.0,0.0
+5,ATP8_COX2,Tetranychus_urticae,,0.0,0.0,0.0,0.0,COX2,ATP8,False,False,97.7,False,,gene,68.0,0.0,5082,5380,299,,,0,0,,,,,TU_transcriptome,gene-TU_6,0,267,0.0,0.0
+6,COX2_ND1,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND1,COX2,False,False,0.4,False,,gene,814.0,0.0,5789,6087,299,,,0,0,,,,,TU_transcriptome,gene-TU_7gene-TU_8,0,400,0.0,0.0
+7,ND1_CYTB,Tetranychus_urticae,,0.0,0.0,0.0,0.0,CYTB,ND1,False,True,93.4,True,,gene,163.0,0.0,7458,7756,299,,,0,0,,,,,TU_transcriptome,gene-TU_9,0,362,0.0,0.0
+8,CYTB_ND6,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND6,CYTB,True,True,96.0,False,,gene,88.0,0.0,8683,8981,299,,,0,0,,,,,TU_transcriptome,gene-TU_10,0,287,0.0,0.0
+9,ND6_ND4,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND4,ND6,True,True,0.9,False,,gene,1.0,0.0,9170,9468,299,,,0,0,,,,,TU_transcriptome,gene-TU_11,0,200,0.0,0.0
+10,ND4_ND5,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,97.0,False,,gene,57.0,0.0,10324,10622,299,,,0,0,,,,,TU_transcriptome,gene-TU_12,0,256,0.0,0.0
+11,ND5_ND2,Tetranychus_urticae,,0.0,0.0,0.0,0.0,ND2,ND5,True,True,1.8,False,,gene,64.0,0.0,11947,12245,299,,,0,0,,,,,TU_transcriptome,gene-TU_13,0,263,0.0,0.0

@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,194.0,0.0,1217,1515,299,,,0,0,,,,,PB_transcriptome,gene-PB_0gene-PB_1,0,192,0.0,0.0
+1,COX1_COX2,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,65.0,0.0,2942,3240,299,,,0,0,,,,,PB_transcriptome,gene-PB_2,0,160,0.0,0.0
+2,COX2_ATP8,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,136.0,0.0,3695,3981,287,,,0,0,,,,,PB_transcriptome,gene-PB_3gene-PB_4,0,192,0.0,0.0
+3,ATP8_ATP6,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,3982,4280,299,,,0,0,,,,,PB_transcriptome,gene-PB_5,0,96,0.0,0.0
+4,ATP6_COX3,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4653,4951,299,,,0,0,,,,,PB_transcriptome,gene-PB_6,0,96,0.0,0.0
+5,COX3_ND3,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,64.0,0.0,5441,5739,299,,,0,0,,,,,PB_transcriptome,gene-PB_7,0,159,0.0,0.0
+6,ND3_ND5,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,389.0,0.0,5859,6157,299,,,0,0,,,,,PB_transcriptome,gene-PB_8gene-PB_9,0,192,0.0,0.0
+7,ND5_ND4,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,65.0,0.0,7964,8262,299,,,0,0,,,,,PB_transcriptome,gene-PB_10,0,160,0.0,0.0
+8,ND4_ND4L,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9357,9648,292,,,0,0,,,,,PB_transcriptome,gene-PB_11,0,96,0.0,0.0
+9,ND4L_ND6,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,133.0,0.0,9649,9947,299,,,0,0,,,,,PB_transcriptome,gene-PB_12gene-PB_13,0,192,0.0,0.0
+10,ND6_CYTB,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,10284,10582,299,,,0,0,,,,,PB_transcriptome,gene-PB_14,0,96,0.0,0.0
+11,CYTB_ND1,Protaetia_brevitarsis,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,85.0,0.0,11428,11726,299,,,0,0,,,,,PB_transcriptome,gene-PB_15,0,180,0.0,0.0

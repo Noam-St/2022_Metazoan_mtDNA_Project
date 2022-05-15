@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND2_COX1,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,95.7,False,,gene,187.0,0.0,1228,1526,299,,,0,0,,,,,ZN_transc,gene-ZN_0gene-ZN_1,0,192,0.0,0.0
+1,COX1_COX2,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,74.0,0.0,2954,3252,299,,,0,0,,,,,ZN_transc,gene-ZN_2,0,169,0.0,0.0
+2,COX2_ATP8,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,136.0,0.0,3713,3999,287,,,0,0,,,,,ZN_transc,gene-ZN_3gene-ZN_4,0,192,0.0,0.0
+3,ATP8_ATP6,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,4000,4298,299,,,0,0,,,,,ZN_transc,gene-ZN_5,0,96,0.0,0.0
+4,ATP6_COX3,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,4682,4980,299,,,0,0,,,,,ZN_transc,gene-ZN_6,0,96,0.0,0.0
+5,COX3_ND3,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,71.0,0.0,5472,5770,299,,,0,0,,,,,ZN_transc,gene-ZN_7,0,166,0.0,0.0
+6,ND3_ND5,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,388.0,0.0,5897,6195,299,,,0,0,,,,,ZN_transc,gene-ZN_8gene-ZN_9,0,192,0.0,0.0
+7,ND5_ND4,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,65.0,0.0,8014,8312,299,,,0,0,,,,,ZN_transc,gene-ZN_10,0,160,0.0,0.0
+8,ND4_ND4L,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,9409,9697,289,,,0,0,,,,,ZN_transc,gene-ZN_11,0,96,0.0,0.0
+9,ND4L_ND6,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,135.0,0.0,9698,9996,299,,,0,0,,,,,ZN_transc,gene-ZN_12gene-ZN_13,0,192,0.0,0.0
+10,ND6_CYTB,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,1.0,0.0,10320,10618,299,,,0,0,,,,,ZN_transc,gene-ZN_14,0,96,0.0,0.0
+11,CYTB_ND1,Zootermopsis_nevadensis,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,92.0,0.0,11453,11751,299,,,0,0,,,,,ZN_transc,gene-ZN_15,0,187,0.0,0.0

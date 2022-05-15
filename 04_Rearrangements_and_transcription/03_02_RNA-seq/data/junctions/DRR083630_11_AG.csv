@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Aphis_gossypii,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,66.0,0.0,1568,1866,299,,,0,0,,,,,AGos_pair,gene-AG_0,0,259,0.0,0.0
+1,COX2_ATP8,Aphis_gossypii,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,147.0,0.0,2306,2581,276,,,0,0,,,,,AGos_pair,gene-AG_1,0,276,0.0,0.0
+2,ATP8_ATP6,Aphis_gossypii,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,2582,2880,299,,,0,0,,,,,AGos_pair,gene-AG_2,0,194,0.0,0.0
+3,ATP6_COX3,Aphis_gossypii,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,1.0,0.0,3235,3533,299,,,0,0,,,,,AGos_pair,gene-AG_3,0,194,0.0,0.0
+4,COX3_ND3,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,62.0,0.0,4022,4320,299,,,0,0,,,,,AGos_pair,gene-AG_4,0,255,0.0,0.0
+5,ND3_ND5,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,1146.0,0.0,4438,4736,299,,,0,0,,,,,AGos_pair,gene-AG_5gene-AG_6,0,388,0.0,0.0
+6,ND5_ND4,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,118.0,0.0,7255,7553,299,,,0,0,,,,,AGos_pair,gene-AG_7,0,311,0.0,0.0
+7,ND4_ND4L,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,8.0,0.0,8683,8981,299,,,0,0,,,,,AGos_pair,gene-AG_8,0,201,0.0,0.0
+8,ND4L_ND6,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,135.0,0.0,8982,9280,299,,,0,0,,,,,AGos_pair,gene-AG_9,0,328,0.0,0.0
+9,ND6_CYTB,Aphis_gossypii,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,3.0,0.0,9609,9907,299,,,0,0,,,,,AGos_pair,gene-AG_10,0,196,0.0,0.0
+10,CYTB_ND1,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,82.0,0.0,10728,11026,299,,,0,0,,,,,AGos_pair,gene-AG_11,0,275,0.0,0.0
+11,ND1_RNR2,Aphis_gossypii,,0.0,0.0,0.0,0.0,RNR2,ND1,False,False,94.7,False,,gene,65.0,0.0,11746,12044,299,,,0,0,,,,,AGos_pair,gene-AG_12,0,258,0.0,0.0
+12,RNR2_RNR1,Aphis_gossypii,,0.0,0.0,0.0,0.0,RNR1,RNR2,False,False,95.7,False,,gene,72.0,0.0,13071,13369,299,,,0,0,,,,,AGos_pair,gene-AG_13,0,265,0.0,0.0
+13,RNR1_ND2,Aphis_gossypii,,0.0,0.0,0.0,0.0,ND2,RNR1,False,True,89.9,True,,,824.0,0.0,13911,14209,299,,,0,0,,,,,AGos_pair,gene-AG_14gene-AG_15,0,388,0.0,0.0

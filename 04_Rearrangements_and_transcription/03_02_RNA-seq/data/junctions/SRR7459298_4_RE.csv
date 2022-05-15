@@ -1,0 +1,15 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,COX2,COX1,False,True,31.0,True,,gene,83.0,0.0,1544,1842,299,,,0,0,,,,,RE_random,gene-RE_0,0,178,0.0,0.0
+1,COX2_ATP8,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,38.5,False,,gene,80.0,0.0,2371,2654,284,,,0,0,,,,,RE_random,gene-RE_1,0,175,0.0,0.0
+2,ATP8_ATP6,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,58.7,False,,gene,3.0,0.0,2655,2953,299,,,0,0,,,,,RE_random,gene-RE_2,0,98,0.0,0.0
+3,ATP6_COX3,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,39.0,False,,gene,1.0,0.0,3359,3657,299,,,0,0,,,,,RE_random,gene-RE_3,0,96,0.0,0.0
+4,COX3_ND2,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND2,COX3,True,True,13.6,False,,gene,306.0,0.0,4146,4444,299,,,0,0,,,,,RE_random,gene-RE_4gene-RE_5,0,192,0.0,0.0
+5,ND2_ND5,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND5,ND2,True,True,38.5,False,,gene,148.0,0.0,5547,5845,299,,,0,0,,,,,RE_random,gene-RE_6gene-RE_7,0,192,0.0,0.0
+6,ND5_rrns,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,rrns,ND5,True,True,14.1,False,,gene,1.0,0.0,7363,7661,299,,,0,0,,,,,RE_random,gene-RE_8,0,96,0.0,0.0
+7,rrns_ND6,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND6,rrns,True,True,14.1,False,,gene,25.0,0.0,8297,8595,299,,,0,0,,,,,RE_random,gene-RE_9,0,120,0.0,0.0
+8,ND6_ND3,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND3,ND6,True,True,39.0,False,,gene,4.0,0.0,8850,9148,299,,,0,0,,,,,RE_random,gene-RE_10,0,99,0.0,0.0
+9,ND3_ND4L,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,78.4,False,,gene,41.0,0.0,9190,9482,293,,,0,0,,,,,RE_random,gene-RE_11,0,136,0.0,0.0
+10,ND4L_ND1,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND1,ND4L,True,True,14.1,False,,gene,11.0,0.0,9483,9781,299,,,0,0,,,,,RE_random,gene-RE_12,0,106,0.0,0.0
+11,ND1_ND4,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,ND4,ND1,True,True,14.1,False,,gene,115.0,0.0,10452,10750,299,,,0,0,,,,,RE_random,gene-RE_13gene-RE_14,0,192,0.0,0.0
+12,ND4_CYTB,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,CYTB,ND4,True,True,14.1,False,,gene,9.0,0.0,11893,12191,299,,,0,0,,,,,RE_random,gene-RE_15,0,104,0.0,0.0
+13,CYTB_rrnl,Rhopilema_esculentum,,0.0,0.0,0.0,0.0,rrnl,CYTB,True,False,14.6,True,,,974.0,0.0,13036,13334,299,,,0,0,,,,,RE_random,gene-RE_16gene-RE_17,0,192,0.0,0.0

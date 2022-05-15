@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,74.0,0.0,1538,1836,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_0,0,175,0.0,0.0
+1,COX2_ATP8,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,141.0,0.0,2276,2569,294,,,0.0,0.0,,,,,TV_transc1,gene-TV_1gene-TV_2,0,204,0.0,0.0
+2,ATP8_ATP6,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,2570,2868,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_3,0,102,0.0,0.0
+3,ATP6_COX3,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,36.0,0.0,3225,3523,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_4,0,137,0.0,0.0
+4,COX3_ND3,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,49.0,0.0,4050,4348,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_5,0,150,0.0,0.0
+5,ND3_ND5,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,,405.0,0.0,4453,4751,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_6gene-TV_7,0,204,0.0,0.0
+6,ND5_ND4,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,58.0,0.0,6541,6839,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_8,0,159,0.0,0.0
+7,ND4_ND4L,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,1.0,0.0,7872,8166,295,,,0.0,0.0,,,,,TV_transc1,gene-TV_9,0,102,0.0,0.0
+8,ND4L_ND6,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,167.0,0.0,8167,8465,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_10gene-TV_11,0,204,0.0,0.0
+9,ND6_CYTB,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,59.0,0.0,8733,9031,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_12,0,160,0.0,0.0
+10,CYTB_ND1,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,66.0,0.0,9923,10221,299,,,0.0,0.0,,,,,TV_transc1,gene-TV_13,0,167,0.0,0.0
+11,ND1_ND2,Trialeurodes_vaporariorum,,0.0,0.0,0.0,0.0,ND2,ND1,False,True,2.0,True,NC_006280.1,,6025.0,0.0,10922,11220,299,550588.235294117,866666.6666666665,2.347826086956522,0.0,0.07299940659503877,0.7961510106090457,0.0,0.0,TV_transc1,gene-TV_14gene-TV_15,0,204,0.0,0.0

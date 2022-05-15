@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,COX1_COX2,Linepithema_humile,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,97.9,False,,gene,68.0,0.0,1529,1827,299,,,0,0,,,,,LH_queen_transc,gene-LH_0,0,163,0.0,0.0
+1,COX2_ATP8,Linepithema_humile,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,97.7,False,,gene,158.0,0.0,2287,2585,299,,,0,0,,,,,LH_queen_transc,gene-LH_1gene-LH_2,0,192,0.0,0.0
+2,ATP8_ATP6,Linepithema_humile,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.5,False,,gene,1.0,0.0,2599,2897,299,,,0,0,,,,,LH_queen_transc,gene-LH_3,0,96,0.0,0.0
+3,ATP6_COX3,Linepithema_humile,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,97.8,False,,gene,6.0,0.0,3269,3567,299,,,0,0,,,,,LH_queen_transc,gene-LH_4,0,101,0.0,0.0
+4,COX3_ND3,Linepithema_humile,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,96.7,False,,gene,110.0,0.0,4061,4359,299,,,0,0,,,,,LH_queen_transc,gene-LH_5gene-LH_6,0,192,0.0,0.0
+5,ND3_ND5,Linepithema_humile,,0.0,0.0,0.0,0.0,ND5,ND3,True,False,92.2,True,,gene,492.0,0.0,4522,4820,299,,,0,0,,,,,LH_queen_transc,gene-LH_7gene-LH_8,0,192,0.0,0.0
+6,ND5_ND4,Linepithema_humile,,0.0,0.0,0.0,0.0,ND4,ND5,False,False,97.0,False,,gene,84.0,0.0,6670,6968,299,,,0,0,,,,,LH_queen_transc,gene-LH_9,0,179,0.0,0.0
+7,ND4_ND4L,Linepithema_humile,,0.0,0.0,0.0,0.0,ND4L,ND4,False,False,98.4,False,,gene,33.0,0.0,8086,8384,299,,,0,0,,,,,LH_queen_transc,gene-LH_10,0,128,0.0,0.0
+8,ND4L_ND6,Linepithema_humile,,0.0,0.0,0.0,0.0,ND6,ND4L,False,True,95.6,True,,gene,467.0,0.0,8407,8705,299,,,0,0,,,,,LH_queen_transc,gene-LH_11gene-LH_12,0,192,0.0,0.0
+9,ND6_CYTB,Linepithema_humile,,0.0,0.0,0.0,0.0,CYTB,ND6,True,True,96.0,False,,gene,24.0,0.0,9429,9727,299,,,0,0,,,,,LH_queen_transc,gene-LH_13,0,119,0.0,0.0
+10,CYTB_ND1,Linepithema_humile,,0.0,0.0,0.0,0.0,ND1,CYTB,True,False,93.4,True,,gene,103.0,0.0,10575,10873,299,,,0,0,,,,,LH_queen_transc,gene-LH_14gene-LH_15,0,192,0.0,0.0
+11,ND1_ND2,Linepithema_humile,,0.0,0.0,0.0,0.0,ND2,ND1,False,True,2.0,True,,gene,3060.0,0.0,11631,11929,299,,,0,0,,,,,LH_queen_transc,gene-LH_16gene-LH_17,0,192,0.0,0.0

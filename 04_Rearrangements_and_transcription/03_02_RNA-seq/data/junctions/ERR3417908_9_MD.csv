@@ -1,0 +1,13 @@
+,gpair,_org,_coexpression,_left_tpm,_right_tpm,_left_rpkm,_right_rpkm,_right_gene,_left_gene,_left_strand,_right_strand,_neigh_freq,_strand_switch,_Chromosome,_Feature,_junction_size,_sum_around_junction,_Position,last_Position,count_Position,mean_RPM,median_RPM,mean_coverage,median_coverage,mean_z,median_z,mean_ends_ratio,max_ends_ratio,dataset,ID,junc_counts,glengths,junc_tpm,junc_rpkm
+0,ND1_ND2,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ND2,ND1,True,True,99.4,False,,gene,206.0,0.0,3711,4009,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_0gene-MD_1,0,400,0.0,0.0
+1,ND2_COX1,Monodelphis_domestica,,0.0,0.0,0.0,0.0,COX1,ND2,True,True,99.5,False,,gene,449.0,0.0,4958,5256,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_2gene-MD_3,0,400,0.0,0.0
+2,COX1_COX2,Monodelphis_domestica,,0.0,0.0,0.0,0.0,COX2,COX1,True,True,99.5,False,,gene,143.0,0.0,6949,7247,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_4,0,342,0.0,0.0
+3,COX2_ATP8,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ATP8,COX2,True,True,99.5,False,,gene,61.0,0.0,7776,7999,224,,,0,0,,,,,ssRNA_10_mammals,gene-MD_5,0,224,0.0,0.0
+4,ATP8_ATP6,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ATP6,ATP8,True,True,99.6,False,,gene,1.0,0.0,8000,8298,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_6,0,200,0.0,0.0
+5,ATP6_COX3,Monodelphis_domestica,,0.0,0.0,0.0,0.0,COX3,ATP6,True,True,99.5,False,,gene,1.0,0.0,8680,8978,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_7,0,200,0.0,0.0
+6,COX3_ND3,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ND3,COX3,True,True,99.5,False,,gene,66.0,0.0,9464,9762,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_8,0,265,0.0,0.0
+7,ND3_ND4L,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ND4L,ND3,True,True,99.4,False,,gene,70.0,0.0,9878,10176,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_9,0,269,0.0,0.0
+8,ND4L_ND4,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ND4,ND4L,True,True,99.6,False,,gene,1.0,0.0,10237,10535,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_10,0,200,0.0,0.0
+9,ND4_ND5,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ND5,ND4,True,True,98.9,False,,gene,199.0,0.0,11615,11913,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_11,0,398,0.0,0.0
+10,ND5_ND6,Monodelphis_domestica,,0.0,0.0,0.0,0.0,ND6,ND5,True,False,84.4,True,,gene,1.0,0.0,13616,13914,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_12,0,200,0.0,0.0
+11,ND6_CYTB,Monodelphis_domestica,,0.0,0.0,0.0,0.0,CYTB,ND6,False,True,99.2,True,,gene,72.0,0.0,14114,14412,299,,,0,0,,,,,ssRNA_10_mammals,gene-MD_13,0,271,0.0,0.0

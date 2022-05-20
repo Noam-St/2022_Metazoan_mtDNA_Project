@@ -1,0 +1,5 @@
+Position,Type,Strand,Dataset,Sample,Confidence_score
+456,TIS,Light,HS_HeLa_gro,100.0,0.84
+2810,TERM,Light,HS_HeLa_gro,100.0,0.65
+575,TIS,Heavy,HS_HeLa_gro,100.0,0.94
+16290,TERM,Heavy,HS_HeLa_gro,100.0,0.93

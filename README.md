@@ -62,106 +62,107 @@ In the paper, we study and compare the mitochondrial gene order and contents of 
 
 #### 04_Rearrangements_and_transcriptions
 All samples analysed are within the `data` directories of 04.01 and 04.02. The pipelines are not included in this GitHub, below are descriptions of the general steps for RNA-seq and PRO-seq samples analysis.
+
 **RNA-seq**
 - trimming using `TrimGalore 0.6.7`
 
-<code>
+    <code>
         trim_galore -o out_folder  -q 20  --paired f1.fastq.gz f2.fastq.gz
-</code>
+    </code>
 
 - fastqc to generate a QC report using `fastqc 0.11.9`
 
-<code>
+    <code>
         fastqc  --outdir out_folder  f1.fq.gz
         fastqc  --outdir out_folder  f2.fq.gz
-</code>
+    </code>
 
 - First alignment against a reference mtDNA genome using `STAR 2.7.10a`
 
-<code>
+    <code>
         STAR  --genomeDir mtdna_ref_folder  --readFilesCommand gunzip -c  --limitBAMsortRAM 1200000000  --outFileNamePrefix out_folder  --outSAMtype BAM SortedByCoordinate  --readFilesIn f1.fq.gz f2.fq.gz  --runThreadN 4 
-</code>
+    </code>
 
 - Generation of pileup file based on alignment using `samtools 1.7`
 
-<code>
+    <code>
         samtools mpileup -f mtdna_ref_folder  -u   sample.bam  > sample.pileup
-</code>
+    </code>
 
 - Generation of consensus vcf file based on pileup using `bcftools 1.7`
 
-<code>
+    <code>
         bcftools call -c   sample.pileup  > sample.vcf
-</code>
+    </code>
 
 - Conversion of vcf output to a fastq using `vcfutils.pl`
 
-<code>
+    <code>
         vcfutils.pl vcf2fq  sample.vcf  > sample.fastq
-</code>
+    </code>
 
 - Conversion of fastq output to a fasta using `fastq2fasta.py` (within 04_01_NGS_data_collection folder)
 
-<code>
+    <code>
         python3.6 fastq2fasta.py --fasta_ref mtdna_ref  --fastq sample.fastq  --output sample.fasta 
-</code>
+    </code>
 
 - Creation of new STAR index based on sample-specific mtDNA reference using `STAR 2.7.10a`
 
-<code>
+    <code>
        STAR --genomeFastaFiles sample_ref.fasta  --genomeDir ref_dir  --genomeSAindexNbases 7  --runThreadN 4  --runMode genomeGenerate  
-</code>
+    </code>
 
 - Uniquely align reads to the new, sample-specific, reference using `STAR 2.7.10a`
 
-<code>
+    <code>
        STAR  --limitBAMsortRAM 1200000000  --outFilterMultimapNmax 1  --genomeDir ref_dir  --outFileNamePrefix out_folder --outSAMtype BAM SortedByCoordinate  --readFilesCommand gunzip -c  --readFilesIn f1.fq.gz f2.fq.gz  --runThreadN 4  
-</code>
+    </code>
 
 - Generate a pileup report based on the alignment using `samtools 1.7`
 
-<code>
+    <code>
        samtools mpileup -Q 30  -f sample_ref.fasta  sample.bam  > sample.pileup
-</code>
+    </code>
 
 - Count the reads in genes using `htseq-count 0.11.2`
 
-<code>
+    <code>
        htseq-count --additional-attr gene  -t gene  -i ID  --nonunique none  -f bam  -s no  sample.bam annotations.gff3  > sample.txt
-</code>
+    </code>
 
 - Process pileup files into csv files with annotations using `process_pileup.py` (within 04_01_NGS_data_collection folder)
 
-<code>
+    <code>
        python3.6 process_pileup.py --counts sample.txt  --org org_name  --pileup sample.pileup  --flip-strands   --output sample.csv  --wd "." 
-</code>
+    </code>
 
 - Normalize htseq-count counts into TPM and RPKM and output a csv file using `normalize_from_htseq.py` (within 04_01_NGS_data_collection folder)
 
-<code>
+    <code>
        python3.6 normalize_from_htseq.py --counts sample.txt  --mode both  --gtf annotations.gff3  --output sample.csv 
-</code>
+    </code>
 
 - Create custom gff files only for the intergenic junctions using `custom_gff.py` (within 04_01_NGS_data_collection folder)
 
-<code>
+    <code>
         python3.6 custom_gff.py --org Trichogramma_japonicum  --output junc_annot.gff3  --junc sample.final.out  --annotated-pileup sample.csv 
-</code>
+    </code>
 
 - Count junction expression using `htseq-count 0.11.2`
 
-<code>
+    <code>
         htseq-count --additional-attr gene  -t gene  -i ID  --nonunique none  -f bam  --mode intersection-strict  -s no sample.bam junc_annot.gff3  > sample.txt
-</code>
+    </code>
 
 - Normalize htseq-count **junction** counts into TPM and RPKM and output a csv file using `normalize_from_htseq.py` (within 04_01_NGS_data_collection folder)
 
-<code>
+    <code>
         python3.6 normalize_from_htseq.py --counts sample.txt  --gtf junc_annot.gff3  --mode both  --output sample.csv 
-</code>
+    </code>
 
 - Aggregate all junction information into a main file using `make_junctions.py` (within 04_01_NGS_data_collection folder)
 
-<code>
+    <code>
         python3.6 make_junctions.py --junc 300  --no-trna   --org Trichogramma_japonicum  --wd "."  --annotated-pileup annotated_pileup.csv  --coding   --junc-reads junc_reads.csv  --output sample.csv  --tpm-from-htseq norm_counts.csv 
-</code>
+    </code>

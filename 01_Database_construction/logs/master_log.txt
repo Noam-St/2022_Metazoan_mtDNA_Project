@@ -8,3 +8,30 @@ Creating taxfile: NC_031807.1
 Taxfile exists: NC_038132.1
 Creating taxfile: NC_031807.1
 Taxfile exists: NC_038132.1
+Creating taxfile: NC_031807.1
+Taxfile exists: NC_038132.1
+Creating taxfile: NC_021932.1
+Tax parsing 118452Creating taxfile: NC_011943.1
+Tax parsing 392897Creating taxfile: NC_030592.1
+Tax parsing 102642Creating taxfile: NC_026900.1
+Tax parsing 1463498Creating taxfile: NC_023781.1
+Tax parsing 75332Creating taxfile: NC_015799.1
+Tax parsing 658384Creating taxfile: NC_021746.1
+Tax parsing 473868Creating taxfile: NC_011180.1
+Tax parsing 129035Creating taxfile: NC_031807.1
+Taxfile exists: NC_038132.1
+Taxfile exists: NC_021932.1
+Taxfile exists: NC_011943.1
+Taxfile exists: NC_030592.1
+Taxfile exists: NC_026900.1
+Taxfile exists: NC_023781.1
+Taxfile exists: NC_015799.1
+Taxfile exists: NC_021746.1
+Taxfile exists: NC_011180.1
+Creating taxfile: NC_042689.1
+Tax parsing 342762Creating taxfile: NC_038146.1
+Tax parsing 121830Creating taxfile: NC_018754.1
+Tax parsing 941637Creating taxfile: NC_013580.1
+Tax parsing 590154Creating taxfile: NC_020758.1
+Tax parsing 10068Creating taxfile: NC_045212.1
+Tax parsing 2665907Taxfile exists: NC_042689.1

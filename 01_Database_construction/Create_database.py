@@ -359,7 +359,7 @@ def intron_handler(record,genetic_code,topology,seq):
 
     return gene_list,note_list,loc_list, tRNA_validation
 try:
-    org_df = pd.read_csv(f'{path}{dash}DB_csvs{dash}final_2021.csv',index_col = 0)
+    org_df = pd.read_csv(f'{path}{dash}DB_csvs{dash}final2.csv',index_col = 0)
     org_list = list(org_df.index)
 except FileNotFoundError:
     org_list = []
@@ -589,9 +589,9 @@ for feature in record.features:
         gene_fasta(name.replace('[','').replace(']','').replace('\'',''), f'{loc.start}:{loc.end}:{loc.strand}', record.seq)
 
  """
-if __name__ == '__main__':
-#%% This block runs the retrieve_details function on all organisms in organelle.csv
 
+def main():
+    """This is the main function. It calls all the other functions and runs the program."""
     ARWEN_FILE = f'output'
     # CHECK ARWEN FILE
 
@@ -606,12 +606,17 @@ if __name__ == '__main__':
             urllib.request.urlretrieve(URL, f'{path}{dash}arwen1.2.3.c')
         print(f'Compiling ARWEN...')
         os.system(f'gcc {path}{dash}arwen1.2.3.c -o output')
+    if os.path.exists(f'{path}{dash}organelles.csv'):
+        print('Organelles file found, importing...')
+    else:
+        print('Organelles file not found, Downloading...')
+        URL = 'https://github.com/Noam-St/2022_Metazoan_mtDNA_Project/blob/master/01_Database_construction/organelles.csv'
+        urllib.request.urlretrieve(URL, f'{path}{dash}organelles.csv')
     full_org = make_org_df(f'{path}{dash}organelles.csv')
-    c= len(org_list) -1
+    c = len(org_list) -1
     for i in ['tax_DB', 'genbank_DB', 'logs', 'DB_csvs','temp','outputs']:
         dir_checker(i)
-
-    for ID in full_org.iloc[:, 0]:
+    for ID in full_org.iloc[102:108, 0]:
         dict_list = []
         print(f'current position: {c}')
         return_dict = retrieve_details(ID)
@@ -619,6 +624,8 @@ if __name__ == '__main__':
             dict_list.append(return_dict)
             dummy = pd.DataFrame(dict_list)
             dummy.set_index(keys = 'organism',inplace = True)
-            dummy.to_csv(f'{path}{dash}DB_csvs{dash}final.csv',header = False,mode = 'a')
+            dummy.to_csv(f'{path}{dash}DB_csvs{dash}final2.csv',header = False,mode = 'a')
         c+=1
 
+if __name__ == '__main__':
+    main()

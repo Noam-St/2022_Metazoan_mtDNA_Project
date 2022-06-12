@@ -85,3 +85,29 @@ Tax file doesnt have info! ID: NC_031807.1	 org: (Cyprinus carpio 'mirror' x Cyp
 Tax file doesnt have info! ID: NC_031807.1	 org: (Cyprinus carpio 'mirror' x Cyprinus carpio 'singuonensis') x Carassius auratus red var.
 Tax file doesnt have info! ID: NC_031807.1	 org: (Cyprinus carpio 'mirror' x Cyprinus carpio 'singuonensis') x Carassius auratus red var.
 Tax file doesnt have info! ID: NC_031807.1	 org: (Cyprinus carpio 'mirror' x Cyprinus carpio 'singuonensis') x Carassius auratus red var.
+Tax file doesnt have info! ID: NC_031807.1	 org: (Cyprinus carpio 'mirror' x Cyprinus carpio 'singuonensis') x Carassius auratus red var.
+Organism already in .csv! ID: NC_038132.1	 org: Aacanthocnema dobsoni
+Organism already in .csv! ID: NC_021932.1	 org: Abacion magnum
+Organism already in .csv! ID: NC_011943.1	 org: Abalistes stellaris
+Organism already in .csv! ID: NC_030592.1	 org: Abax parallelepipedus
+Organism already in .csv! ID: NC_026900.1	 org: Abbottina obtusirostris
+Organism already in .csv! ID: NC_023781.1	 org: Abbottina rivularis
+Organism already in .csv! ID: NC_015799.1	 org: Abidama producta
+Organism already in .csv! ID: NC_021746.1	 org: Abisara fylloides
+Organism already in .csv! ID: NC_011180.1	 org: Ablennes hians
+Tax file doesnt have info! ID: NC_031807.1	 org: (Cyprinus carpio 'mirror' x Cyprinus carpio 'singuonensis') x Carassius auratus red var.
+Organism already in .csv! ID: NC_038132.1	 org: Aacanthocnema dobsoni
+Organism already in .csv! ID: NC_021932.1	 org: Abacion magnum
+Organism already in .csv! ID: NC_011943.1	 org: Abalistes stellaris
+Organism already in .csv! ID: NC_030592.1	 org: Abax parallelepipedus
+Organism already in .csv! ID: NC_026900.1	 org: Abbottina obtusirostris
+Organism already in .csv! ID: NC_023781.1	 org: Abbottina rivularis
+Organism already in .csv! ID: NC_015799.1	 org: Abidama producta
+Organism already in .csv! ID: NC_021746.1	 org: Abisara fylloides
+Organism already in .csv! ID: NC_011180.1	 org: Ablennes hians
+Organism already in .csv! ID: NC_042689.1	 org: Acisoma panorpoides
+Organism already in .csv! ID: NC_038146.1	 org: Acizzia uncatoides
+Organism already in .csv! ID: NC_018754.1	 org: Acleris fimbriana
+Organism already in .csv! ID: NC_013580.1	 org: Acmaeodera sp.
+Organism already in .csv! ID: NC_020758.1	 org: Acomys cahirinus
+Organism already in .csv! ID: NC_045212.1	 org: Acosmetura nigrogeniculata

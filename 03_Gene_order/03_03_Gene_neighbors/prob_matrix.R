@@ -1,5 +1,4 @@
 library(tidyverse)
-library(pheatmap)
 library(ComplexHeatmap)
 library(circlize)
 library(Cairo)

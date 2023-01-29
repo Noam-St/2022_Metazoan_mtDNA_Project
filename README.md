@@ -15,7 +15,7 @@ This code contains 4 main parts:
 
 ## Background
 
-This repository contains all the code used to calculate and generate the results presented in the paper `link here`.
+This repository contains all the code used to calculate and generate the results presented in the [paper](https://www.nature.com/articles/s42003-023-04471-4).
 In the paper, we study and compare the mitochondrial gene order and contents of over 8,000 available metazoan oragnisms, downloaded from NCBI Organelle database. We then analyzed available RNA-seq data of 56 different metazoans to disover the polycistronic organization of a variaty of mitochondrial DNAs (mtDNAs) based on intergenic junction expression patterns.
 ## Requirements
 
